@@ -1,0 +1,13 @@
+1624569876
+a:2:{s:7:"content";s:566:"<h1>Say Hello to Grav!</h1>
+<h2>installation successful...</h2>
+<ol>
+<li>one</li>
+<li>two</li>
+<li>three</li>
+<li>four</li>
+</ol>
+<p>Congratulations! You have installed the <strong>Base Grav Package</strong> that provides a <strong>simple page</strong> and the default <strong>Quark</strong> theme to get you started.</p>
+<div class="notices red">
+<p>If you see a <strong>404 Error</strong> when you click <code>Typography</code> in the menu, please refer to the <a href="http://learn.getgrav.org/troubleshooting/page-not-found">troubleshooting guide</a>.</p>
+</div>";s:12:"content_meta";N;}

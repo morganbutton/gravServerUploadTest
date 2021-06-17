@@ -1,0 +1,16 @@
+1623965169
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":962:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:4:"test";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:4:"Test";s:7:"content";a:5:{s:5:"items";a:1:{i:0;s:14:"@self.children";}s:5:"limit";i:5;s:5:"order";a:2:{s:2:"by";s:4:"date";s:3:"dir";s:4:"desc";}s:10:"pagination";b:1;s:20:"url_taxonomy_filters";b:1;}}s:11:"frontmatter";s:169:"title: Test
+content:
+    items:
+        - '@self.children'
+    limit: 5
+    order:
+        by: date
+        dir: desc
+    pagination: true
+    url_taxonomy_filters: true";s:8:"markdown";s:116:"---
+title: Test
+---
+# My New Page!
+
+This is the body of **my new page** and I can easily use _Markdown_ syntax here.";}s:7:"storage";a:7:{s:3:"key";s:4:"test";s:11:"storage_key";s:7:"03.test";s:8:"template";s:4:"blog";s:17:"storage_timestamp";i:1623964568;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"blog";i:1622763552;}}s:8:"children";a:2:{s:5:"test2";b:0;s:5:"test3";b:0;}s:8:"checksum";s:32:"036eefd07d7d1640960f73cbea3a917f";}}}

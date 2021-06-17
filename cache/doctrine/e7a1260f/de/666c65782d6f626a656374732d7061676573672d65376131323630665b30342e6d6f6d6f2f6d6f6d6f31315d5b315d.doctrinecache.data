@@ -1,0 +1,13 @@
+1623967108
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":873:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:11:"momo/momo11";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:1:{s:5:"title";s:6:"momo11";}s:11:"frontmatter";s:13:"title: momo11";s:8:"markdown";s:404:"# Say Hello to Grav!
+## installation successful...
+
+1. one
+2. two
+3. three
+4. four
+
+Congratulations! You have installed the **Base Grav Package** that provides a **simple page** and the default **Quark** theme to get you started.
+
+!! If you see a **404 Error** when you click `Typography` in the menu, please refer to the [troubleshooting guide](http://learn.getgrav.org/troubleshooting/page-not-found).
+";}s:7:"storage";a:6:{s:3:"key";s:11:"momo/momo11";s:11:"storage_key";s:14:"04.momo/momo11";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1623965222;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1623965222;}}s:8:"checksum";s:32:"6a84a74674d2f6f887425378801fa256";}}}
