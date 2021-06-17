@@ -1,7 +1,9 @@
-1623967108
-C:39:"Grav\Common\Flex\Types\Pages\PageObject":4414:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:10:"typography";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:1:{s:5:"title";s:10:"Typography";}s:11:"frontmatter";s:17:"title: Typography";s:8:"markdown";s:3932:"! Details on the full capabilities of Spectre.css can be found in the [Official Spectre Documentation](https://picturepan2.github.io/spectre/elements.html)
+1623969873
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":4338:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:10:"typography";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:10:"Typography";s:8:"taxonomy";a:1:{s:3:"tag";s:4:"test";}}s:11:"frontmatter";s:39:"title: Typography
+taxonomy:
+  tag: test";s:8:"markdown";s:3792:"! Details on the full capabilities of Spectre.css can be found in the [Official Spectre Documentation](https://picturepan2.github.io/spectre/elements.html)
 
-The [Quark theme](https://github.com/getgrav/grav-theme-quark) is the new default theme for Grav built with [Spectre.css](https://picturepan2.github.io/spectre/) the lightweight, responsive and modern CSS framework. Spectre provides  basic styles for typography, elements, and a responsive layout system that utilizes best practices and consistent language design.
+The [Quark theme](https://github.com/getgrav/grav-theme-quark) is the new default theme for Grav built with [Spectre.css](https://picturepan2.github.io/spectre/) the lightweight, responsive and modern CSS framework. Spectre provides basic styles for typography, elements, and a responsive layout system that utilizes best practices and consistent language design.
 
 ### Headings
 
@@ -76,56 +78,56 @@ Text<sub>Subscripted</sub> `<sub>`
 
 ### Unordered List
 
-* list item 1
-* list item 2
-    * list item 2.1
-    * list item 2.2
-    * list item 2.3
-* list item 3
+- list item 1
+- list item 2
+  - list item 2.1
+  - list item 2.2
+  - list item 2.3
+- list item 3
 
 ```markdown
-* list item 1
-* list item 2
-    * list item 2.1
-    * list item 2.2
-    * list item 2.3
-* list item 3
+- list item 1
+- list item 2
+  - list item 2.1
+  - list item 2.2
+  - list item 2.3
+- list item 3
 ```
 
 ### Ordered List
 
 1. list item 1
 1. list item 2
-    1. list item 2.1
-    1. list item 2.2
-    1. list item 2.3
+   1. list item 2.1
+   1. list item 2.2
+   1. list item 2.3
 1. list item 3
 
 ```markdown
 1. list item 1
 1. list item 2
-    1. list item 2.1
-    1. list item 2.2
-    1. list item 2.3
+   1. list item 2.1
+   1. list item 2.2
+   1. list item 2.3
 1. list item 3
 ```
 
 ### Table
 
-| Name                        | Genre                         | Release date         |
-| :-------------------------- | :---------------------------: | -------------------: |
-| The Shawshank Redemption    | Crime, Drama                  | 14 October 1994      |
-| The Godfather               | Crime, Drama                  | 24 March 1972        |
-| Schindler's List            | Biography, Drama, History     | 4 February 1994      |
-| Se7en                       | Crime, Drama, Mystery         | 22 September 1995    |
+| Name                     |           Genre           |      Release date |
+| :----------------------- | :-----------------------: | ----------------: |
+| The Shawshank Redemption |       Crime, Drama        |   14 October 1994 |
+| The Godfather            |       Crime, Drama        |     24 March 1972 |
+| Schindler's List         | Biography, Drama, History |   4 February 1994 |
+| Se7en                    |   Crime, Drama, Mystery   | 22 September 1995 |
 
 ```markdown
-| Name                        | Genre                         | Release date         |
-| :-------------------------- | :---------------------------: | -------------------: |
-| The Shawshank Redemption    | Crime, Drama                  | 14 October 1994      |
-| The Godfather               | Crime, Drama                  | 24 March 1972        |
-| Schindler's List            | Biography, Drama, History     | 4 February 1994      |
-| Se7en                       | Crime, Drama, Mystery         | 22 September 1995    |
+| Name                     |           Genre           |      Release date |
+| :----------------------- | :-----------------------: | ----------------: |
+| The Shawshank Redemption |       Crime, Drama        |   14 October 1994 |
+| The Godfather            |       Crime, Drama        |     24 March 1972 |
+| Schindler's List         | Biography, Drama, History |   4 February 1994 |
+| Se7en                    |   Crime, Drama, Mystery   | 22 September 1995 |
 ```
 
 ### Notices
@@ -149,5 +151,4 @@ The notices styles are actually provided by the `markdown-notices` plugin but ar
 
 !!!! This is a success notification
 ```
-
-";}s:7:"storage";a:6:{s:3:"key";s:10:"typography";s:11:"storage_key";s:13:"02.typography";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1622769685;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1622769685;}}s:8:"checksum";s:32:"31af26061f0dad5fd46fa0a93fb3af2e";}}}
+";}s:7:"storage";a:6:{s:3:"key";s:10:"typography";s:11:"storage_key";s:13:"02.typography";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1623969136;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1623969136;}}s:8:"checksum";s:32:"b6fcd40707c392f06ea9cc7d390d15c4";}}}

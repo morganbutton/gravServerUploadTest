@@ -2,7 +2,7 @@
 title: momo
 content:
   items:
-    - "@self.children"
+    - "@taxonomy": { tag: test }
   limit: 10
   order:
     by: date

@@ -2,13 +2,17 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => 'C:/wamp64/www/gravCustomTest/user/pages/04.momo/blog.md',
-    'modified' => 1623964868,
+    'modified' => 1623969222,
     'data' => [
         'header' => [
             'title' => 'momo',
             'content' => [
                 'items' => [
-                    0 => '@self.children'
+                    0 => [
+                        '@taxonomy' => [
+                            'tag' => 'test'
+                        ]
+                    ]
                 ],
                 'limit' => 10,
                 'order' => [
@@ -25,7 +29,7 @@ return [
         'frontmatter' => 'title: momo
 content:
   items:
-    - "@self.children"
+    - "@taxonomy": { tag: test }
   limit: 10
   order:
     by: date

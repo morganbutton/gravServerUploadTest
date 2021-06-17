@@ -2,24 +2,25 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledJsonFile',
     'filename' => 'C:/wamp64/www/gravCustomTest/user/data/flex/indexes/pages.json',
-    'modified' => 1623965222,
+    'modified' => 1623969309,
     'data' => [
         'version' => '1.5',
-        'timestamp' => 1623965222,
-        'count' => 17,
+        'timestamp' => 1623969309,
+        'count' => 18,
         'index' => [
             '' => [
                 'key' => '',
                 'storage_key' => '',
                 'template' => NULL,
-                'storage_timestamp' => 1623964981,
+                'storage_timestamp' => 1623969309,
                 'children' => [
                     '01.home' => 1622763454,
-                    '02.typography' => 1622769685,
-                    '03.test' => 1623964568,
-                    '04.momo' => 1623964971
+                    '02.typography' => 1623969136,
+                    '03.test' => 1623969124,
+                    '04.momo' => 1623969222,
+                    '05.taxonomytest' => 1623969309
                 ],
-                'checksum' => '2cf2614d6e8efc7665f617f08f1d65a0'
+                'checksum' => '1d7181c1d7e88daa1dd78b0252f15d36'
             ],
             '01.home' => [
                 'key' => 'home',
@@ -37,29 +38,29 @@ return [
                 'key' => 'typography',
                 'storage_key' => '02.typography',
                 'template' => 'default',
-                'storage_timestamp' => 1622769685,
+                'storage_timestamp' => 1623969136,
                 'markdown' => [
                     '' => [
-                        'default' => 1622769685
+                        'default' => 1623969136
                     ]
                 ],
-                'checksum' => '31af26061f0dad5fd46fa0a93fb3af2e'
+                'checksum' => 'b6fcd40707c392f06ea9cc7d390d15c4'
             ],
             '03.test' => [
                 'key' => 'test',
                 'storage_key' => '03.test',
                 'template' => 'blog',
-                'storage_timestamp' => 1623964568,
+                'storage_timestamp' => 1623969124,
                 'markdown' => [
                     '' => [
-                        'blog' => 1622763552
+                        'blog' => 1623969124
                     ]
                 ],
                 'children' => [
                     'test2' => 1622768019,
-                    'test3' => 1623964568
+                    'test3' => 1623964582
                 ],
-                'checksum' => '036eefd07d7d1640960f73cbea3a917f'
+                'checksum' => '228170df71cda3e4280764272bd5b839'
             ],
             '03.test/test2' => [
                 'key' => 'test/test2',
@@ -89,10 +90,10 @@ return [
                 'key' => 'momo',
                 'storage_key' => '04.momo',
                 'template' => 'blog',
-                'storage_timestamp' => 1623965222,
+                'storage_timestamp' => 1623969222,
                 'markdown' => [
                     '' => [
-                        'blog' => 1623964868
+                        'blog' => 1623969222
                     ]
                 ],
                 'children' => [
@@ -107,7 +108,7 @@ return [
                     'momo10' => 1623965195,
                     'momo11' => 1623965222
                 ],
-                'checksum' => '9b8646861ee2c9bcb3b83dafb401466e'
+                'checksum' => '5d392f42e7f010cdf8a88a1d6c1f03c3'
             ],
             '04.momo/momo1' => [
                 'key' => 'momo/momo1',
@@ -228,6 +229,18 @@ return [
                     ]
                 ],
                 'checksum' => '6a84a74674d2f6f887425378801fa256'
+            ],
+            '05.taxonomytest' => [
+                'key' => 'taxonomytest',
+                'storage_key' => '05.taxonomytest',
+                'template' => 'default',
+                'storage_timestamp' => 1623969309,
+                'markdown' => [
+                    '' => [
+                        'default' => 1623969309
+                    ]
+                ],
+                'checksum' => 'b1c3400954a7fb7f05471446917d8506'
             ]
         ]
     ]
